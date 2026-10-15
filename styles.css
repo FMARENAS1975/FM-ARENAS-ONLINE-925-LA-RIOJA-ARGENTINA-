@@ -915,7 +915,7 @@ button:focus-visible {
   }
 
   .social-card {
-    min-height: 155px;
+    min-height: 155px; 
   }
 }
 
